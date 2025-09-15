@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Prosty moduł do analizy dat ISO 8601
 Name:		python-%{module}
 # keep 0.x here for python2 support
 Version:	0.1.16
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/iso8601/
